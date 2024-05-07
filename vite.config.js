@@ -4,9 +4,9 @@ import { defineConfig } from 'vite'
 export default defineConfig({
   build: {
     lib: {
-      entry: resolve(__dirname, 'src/myLibrary.js'),
-      name: 'myLibrary',
-      fileName: 'myLibrary'
+      entry: resolve(__dirname, 'src/redsys.js'),
+      name: 'redsys',
+      fileName: 'redsys'
     }
   },
 
