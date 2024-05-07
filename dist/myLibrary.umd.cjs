@@ -1,0 +1,1 @@
+(function(e,i){typeof exports=="object"&&typeof module<"u"?i(exports):typeof define=="function"&&define.amd?define(["exports"],i):(e=typeof globalThis<"u"?globalThis:e||self,i(e.myLibrary={}))})(this,function(e){"use strict";const i=()=>"Are you inspired?";e.inspire=i,Object.defineProperty(e,Symbol.toStringTag,{value:"Module"})});
